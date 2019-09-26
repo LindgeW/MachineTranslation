@@ -1,0 +1,18 @@
+{
+  "train": {
+    "src_lang": "./data/cmn/train/en.txt",
+    "tgt_lang": "./data/cmn/train/ch.txt"
+  },
+  "dev": {
+    "src_lang": "./data/cmn/dev/en.txt",
+    "tgt_lang": "./data/cmn/dev/ch.txt"
+  },
+  "test": {
+    "src_lang": "./data/cmn/test/en.txt",
+    "tgt_lang": "./data/cmn/test/ch.txt"
+  },
+  "embedding": {
+    "src_embedding": "./data/pretrained/word2vec_en_40w_300.txt",
+    "tgt_embedding": "./data/pretrained/tgt_embedding"
+  }
+}
