@@ -1,4 +1,4 @@
 # MachineTranslation
 machine translation based encoder-attention-decoder architecture
 
-![](imgs/nlm.jpg)
+<img src='imgs/nlm.jpg' width=50%>
