@@ -1,5 +1,5 @@
-# MachineTranslation
-machine translation based encoder-attention-decoder architecture.
+# Machine Translation
+machine translation based on encoder-attention-decoder architecture.
 
 <img src="imgs/nlm.jpg" style='align:center; width:80%;'>
 
