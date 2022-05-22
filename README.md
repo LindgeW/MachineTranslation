@@ -1,9 +1,9 @@
 ## Machine Translation
 machine translation based on encoder-attention-decoder architecture.
 
-<img src="imgs/nlm.jpg" style='align:center; width:80%;'>
+<img src="imgs/nlm.jpg" style='align:center; width:60%;'>
 
-### dataset
+### Dataset
 https://nlp.stanford.edu/projects/nmt/
 
 ### Reference
